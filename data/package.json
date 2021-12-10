@@ -1,0 +1,19 @@
+{
+  "name": "@moldilib/data",
+  "version": "1.0.0",
+  "description": "Collection of react data views and components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moldisocks/npm-moldilib.git"
+  },
+  "author": "Moldisocks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Moldisocks/npm-moldilib/issues"
+  },
+  "homepage": "https://github.com/Moldisocks/npm-moldilib#readme"
+}
